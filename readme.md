@@ -3,8 +3,6 @@
 
 Welcome to Payoo Mobile Finances Service, a simple and convenient app for managing finances. This project is built entirely with HTML, CSS, and JavaScript, offering a user-friendly interface for adding funds, cashing out, viewing bonuses, and checking transaction history.
 
-![Screenshot](screenshot.png) <!-- Replace with the actual screenshot path if needed -->
-
 ## Table of Contents
 
 - [Features](#features)
