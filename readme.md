@@ -1,45 +1,55 @@
 ![Payoo MFS banner](Payoo-MFS-Mockup.png)
+
 # Payoo Mobile Finances Service
 
-Welcome to Payoo Mobile Finances Service, a simple and convenient app for managing finances. This project is built entirely with HTML, CSS, and JavaScript, offering a user-friendly interface for adding funds, cashing out, viewing bonuses, and checking transaction history.
+## Project Overview
+Payoo Mobile Finances Service is a lightweight, user-friendly web application designed to simplify personal finance management. Built with HTML, CSS, and JavaScript, it allows users to add funds, cash out, view bonuses, and monitor transaction history effortlessly.
 
-## Table of Contents
+## Live Project Link
+- **[Live Demo](https://ornobaadi.github.io/Payoo-MFS-Updated/)**
 
-- [Features](#features)
-- [Promo Code](#promo-code)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Technologies Used
+- **Frontend**: HTML, CSS, Vanilla JavaScript
 
-## Features
+## README File
 
-- **Available Balance Display**: Shows the current balance of the user.
-- **Add Money**: Users can add funds to their account.
-- **Cashout**: Allows users to cash out funds from their account.
-- **Get Bonus**: Users can see any available bonuses.
-- **Transaction History**: Displays a list of transactions including add money, bonuses, and cashouts.
+### Project Overview
+Payoo MFS offers an intuitive interface for managing personal finances, enabling users to perform essential transactions like adding funds, cashing out, and tracking bonuses with ease.
+
+
+### Technologies Used
+- HTML
+- CSS
+- Vanilla JavaScript
+
+### Core Features
+1. **Available Balance Display**: Real-time balance updates for users.
+2. **Add Money**: Easily add funds to your account.
+3. **Cashout**: Withdraw funds securely.
+4. **Get Bonus**: Use promo codes for instant bonuses.
+5. **Transaction History**: Track all transactions with detailed logs.
 
 ## Promo Code
 
 Use the promo code **PAYOO** to add a $200 bonus to your account. This is a limited-time offer, so make sure to take advantage of it!
 
-## Technologies Used
+### Dependencies
+This project does not require any external dependencies or libraries.
 
-- **Frontend**: HTML, CSS, Vanilla JavaScript
-
-## Installation
-
-1. Clone the repository:
-
+### How to Run Locally
+1. **Clone the repository:**
     ```bash
     git clone https://github.com/ornobaadi/Payoo-MFS-Updated.git
     ```
+2. **Navigate to the project folder:**
+    ```bash
+    cd Payoo-MFS-Updated
+    ```
+3. **Open the application:**
+    - Double-click on `index.html` or open it in your preferred web browser.
 
-2. Open the project folder and navigate to the `index.html` file.
 
-3. Double-click on `index.html` to open the app in your web browser.
+---
 
 ## Usage
 
