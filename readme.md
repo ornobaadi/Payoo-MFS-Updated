@@ -1,4 +1,4 @@
-![Payoo MFS banner](Payoo-MFS.png)
+![Payoo MFS banner](Payoo-MFS-Mockup.png)
 # Payoo Mobile Finances Service
 
 Welcome to Payoo Mobile Finances Service, a simple and convenient app for managing finances. This project is built entirely with HTML, CSS, and JavaScript, offering a user-friendly interface for adding funds, cashing out, viewing bonuses, and checking transaction history.
@@ -34,7 +34,7 @@ Use the promo code **PAYOO** to add a $200 bonus to your account. This is a limi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/payoo-mobile-finances-service.git
+    git clone https://github.com/ornobaadi/Payoo-MFS-Updated.git
     ```
 
 2. Open the project folder and navigate to the `index.html` file.
